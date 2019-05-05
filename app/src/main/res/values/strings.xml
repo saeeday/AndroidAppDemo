@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GitAppDemo</string>
+    <string name="go_to_bazar">go to bazar</string>
 </resources>
